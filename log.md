@@ -1,5 +1,6 @@
-# 100 Days Of Code - Log
 
+# 100 Days Of Code - Log
+<!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +29,12 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+
+### Day 1: November 15, 2021
+
+**Today's Progress**: Re-learned some numpy and pandas commands, watched some math videos and did a project on finding area of circle using derivative graph method.
+
+**Thoughts:** Its been a while since I last coded some python due to exams and stuff so had to re-learn some stuffs to not hinder my progress in the future.
+
+**Link to work:** [Area of circle](https://twitter.com/An_Indian_Otaku/status/1459520327042564098?s=20) [source code](https://github.com/Indian-otaku/Miscellaneous_python_programs/tree/main/Area_of_circle)
