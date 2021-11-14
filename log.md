@@ -38,3 +38,11 @@
 **Thoughts:** Its been a while since I last coded some python due to exams and stuff so had to re-learn some stuffs to not hinder my progress in the future.
 
 **Link to work:** [Area of circle](https://twitter.com/An_Indian_Otaku/status/1459520327042564098?s=20) [source code](https://github.com/Indian-otaku/Miscellaneous_python_programs/tree/main/Area_of_circle)
+
+### Day 2: November 16, 2021
+
+**Today's Progress**: Finished a Udemy video on linear regression and classification, gradient descent, learnt some R syntaxes, finished chapter 1 of An introduction to statistical learning. 
+
+**Thoughts:** Its been a while since I last learned R and machine learning. Gotta make up fast for the days I wasted on learning for sem 2 exam.
+
+**Link to work:** This site was very useful for learning [Gradient Descent](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
