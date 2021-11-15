@@ -46,3 +46,12 @@
 **Thoughts:** Its been a while since I last learned R and machine learning. Gotta make up fast for the days I wasted on learning for sem 2 exam.
 
 **Link to work:** This site was very useful for learning [Gradient Descent](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
+
+
+### Day 3: November 17, 2021
+
+**Today's Progress**: Read book, some sites on linear regression and commited a file on linear regression.
+
+**Thoughts:** College started and overall coding part decreased to like nil for today but did finally started the learning streak of college cs topics and machine learning. College classes going well for today.
+
+**Link to work:** Made this today [Linear regression](https://github.com/Indian-otaku/Machine_learning_models_explained/blob/main/Linear_regression.md) in github and also [twitter](https://twitter.com/An_Indian_Otaku/status/1460254439818743808?s=20)
