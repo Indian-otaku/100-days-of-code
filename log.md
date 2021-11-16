@@ -31,7 +31,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 1: November 15, 2021
+### Day 1: November 13, 2021
 
 **Today's Progress**: Re-learned some numpy and pandas commands, watched some math videos and did a project on finding area of circle using derivative graph method.
 
@@ -39,7 +39,7 @@
 
 **Link to work:** [Area of circle](https://twitter.com/An_Indian_Otaku/status/1459520327042564098?s=20) [source code](https://github.com/Indian-otaku/Miscellaneous_python_programs/tree/main/Area_of_circle)
 
-### Day 2: November 16, 2021
+### Day 2: November 14, 2021
 
 **Today's Progress**: Finished a Udemy video on linear regression and classification, gradient descent, learnt some R syntaxes, finished chapter 1 of An introduction to statistical learning. 
 
@@ -48,10 +48,21 @@
 **Link to work:** This site was very useful for learning [Gradient Descent](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 
 
-### Day 3: November 17, 2021
+### Day 3: November 15, 2021
 
 **Today's Progress**: Read book, some sites on linear regression and commited a file on linear regression.
 
 **Thoughts:** College started and overall coding part decreased to like nil for today but did finally started the learning streak of college cs topics and machine learning. College classes going well for today.
 
 **Link to work:** Made this today [Linear regression](https://github.com/Indian-otaku/Machine_learning_models_explained/blob/main/Linear_regression.md) in github and also [twitter](https://twitter.com/An_Indian_Otaku/status/1460254439818743808?s=20)
+
+
+### Day 4: November 16, 2021
+
+**Today's Progress**: 
+* *Self learn:* Read book, did linear regression problems, referred some ml topics, discrete maths.
+* *College:* Java started, discrete maths.
+
+**Thoughts:** Finally started Java in college today, was more easier than I initially thought it'll be. Discrete maths is unlike the maths i know from general engineering maths and damn its easy. Didnt progress much in ml today but changed my approach from bottom up to top down. Thats because I temporarily saw my growth rate declining, also people generally prefer top down because its easy to deal with. Probably might start Kaggling from tomorrow onwards.
+
+**Link to work:** Found this [site](https://machinelearningmastery.com/) for learning ml today. 
