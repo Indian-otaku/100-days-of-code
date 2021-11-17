@@ -66,3 +66,14 @@
 **Thoughts:** Finally started Java in college today, was more easier than I initially thought it'll be. Discrete maths is unlike the maths i know from general engineering maths and damn its easy. Didnt progress much in ml today but changed my approach from bottom up to top down. Thats because I temporarily saw my growth rate declining, also people generally prefer top down because its easy to deal with. Probably might start Kaggling from tomorrow onwards.
 
 **Link to work:** Found this [site](https://machinelearningmastery.com/) for learning ml today. 
+
+### Day 4: November 16, 2021
+
+**Today's Progress**: 
+* *Self learn:* Started Kaggle course.
+* *College:* Logic system design started, did some C programs.
+
+**Thoughts:** Didnt progress much today but np atleast it wasnt a total rest. Visited college library for the first time and found some great books about deep learning, but didnt find any about machine learning. Ah well np I intend on buying one for myself so yeah np...
+
+**Link to work:** No link today 
+
