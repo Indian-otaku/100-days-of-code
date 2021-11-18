@@ -67,7 +67,7 @@
 
 **Link to work:** Found this [site](https://machinelearningmastery.com/) for learning ml today. 
 
-### Day 4: November 16, 2021
+### Day 5: November 17, 2021
 
 **Today's Progress**: 
 * *Self learn:* Started Kaggle course.
@@ -77,3 +77,12 @@
 
 **Link to work:** No link today 
 
+### Day 6: November 18, 2021
+
+**Today's Progress**: 
+* *Self learn:* Finished Titanic project in Kaggle course.
+* *College:* Explored the library thats all but totally worth it.
+
+**Thoughts:** Damn I still remember the last time around 4 months ago when I couldnt understand the definitons in kaggle but now ended up doing a competition. progress was slow but there's surely progress. 
+
+**Link to work:** [kaggle](https://www.kaggle.com/bruhotaku)
