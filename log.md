@@ -86,3 +86,24 @@
 **Thoughts:** Damn I still remember the last time around 4 months ago when I couldnt understand the definitons in kaggle but now ended up doing a competition. progress was slow but there's surely progress. 
 
 **Link to work:** [kaggle](https://www.kaggle.com/bruhotaku)
+
+
+### Day 7: November 19, 2021
+
+**Today's Progress**: 
+* *Self learn:* Didnt do much today, mostly just revision.
+* *College:* Found a perfect book for me in the library. Bought it home and read it a little.
+
+**Thoughts:** Weekend is tiring but the day wasnt a total waste.
+
+**Link to work:** Nothing today either.
+
+### Day 8: November 20, 2021
+
+**Today's Progress**: 
+* *Self learn:* Read first chapter of the book i rented from library yesterday. 
+* *College:* Finished most of the topics in module 1 of Lsd, revised ds and did java programs.
+**Thoughts:** Weekend is tiring but the day wasnt a total waste.
+
+**Link to work:** The creator of the book recommended me a [link](https://github.com/rasbt/python-machine-learning-book-3rd-edition) in twitter.
+
