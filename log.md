@@ -103,7 +103,19 @@
 **Today's Progress**: 
 * *Self learn:* Read first chapter of the book i rented from library yesterday. 
 * *College:* Finished most of the topics in module 1 of Lsd, revised ds and did java programs.
-**Thoughts:** Weekend is tiring but the day wasnt a total waste.
+
+**Thoughts:** Today was one of the most productive day in college works till now.
 
 **Link to work:** The creator of the book recommended me a [link](https://github.com/rasbt/python-machine-learning-book-3rd-edition) in twitter.
+
+
+### Day 9: November 21, 2021
+
+**Today's Progress**: 
+* *Self learn:* Started learning about perceptrons. Also started actually learning kaggle.
+* *College:* Revised yesterday's topics.
+
+**Thoughts:** Ive never used kaggle to its full potential heck not even quarter its potential yet so gotta learn how to properly use it.
+
+**Link to work:** [link](https://www.geeksforgeeks.org/how-should-a-machine-learning-beginner-get-started-on-kaggle/)
 
