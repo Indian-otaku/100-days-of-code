@@ -142,7 +142,7 @@
 **Link to work:** [course](https://www.coursera.org/learn/learning-how-to-learn),[program](https://github.com/Indian-otaku/Self-Learn-ML/blob/main/Latest/knn.py)
 
 
-### Day 11: November 23, 2021
+### Day 12: November 24, 2021
 
 **Today's Progress**: 
 * *Self learn:* Re learned SVC and K Means Clustering, watched some videos of learn to learn course.
