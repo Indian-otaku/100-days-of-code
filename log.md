@@ -119,3 +119,25 @@
 
 **Link to work:** [link](https://www.geeksforgeeks.org/how-should-a-machine-learning-beginner-get-started-on-kaggle/)
 
+
+### Day 10: November 22, 2021
+
+**Today's Progress**: 
+* *Self learn:* Read the book, finished all calculus important videos in 3Blue1Brown playlist. Also played with iris dataset in kaggle.
+* *College:* Did ds program.
+
+**Thoughts:** Ive never used kaggle to its full potential heck not even quarter its potential yet so gotta learn how to properly use it.
+
+**Link to work:** [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+
+### Day 11: November 23, 2021
+
+**Today's Progress**: 
+* *Self learn:* Started a course on learning how to learn, re learned KNN and classification again.
+* *College:* Did java problems.
+
+**Thoughts:** It feels like the college suddently levelled up in difficulty so gotta stay ahead to actually catch up lmao.
+
+**Link to work:** [course](https://www.coursera.org/learn/learning-how-to-learn)
+
