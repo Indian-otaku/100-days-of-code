@@ -148,6 +148,29 @@
 * *Self learn:* Re learned SVC and K Means Clustering, watched some videos of learn to learn course.
 * *College:* Did ds problems.
 
-**Thoughts:** It feels like the college suddently levelled up in difficulty so gotta stay ahead to actually catch up lmao.
+**Thoughts:** The progress is slowing down but thats because the workload from college is increasing.
 
 **Link to work:** [program](https://github.com/Indian-otaku/Self-Learn-ML/blob/main/Latest/breast_cancer.py)
+
+
+
+### Day 13: November 25, 2021
+
+**Today's Progress**: 
+* *Self learn:* Did perceptron program.
+* *College:* Did some Java programs.
+
+**Thoughts:** Started learning discrete maths.
+
+**Link to work:** No link today
+
+
+### Day 13: November 25, 2021
+
+**Today's Progress**: 
+* *Self learn:* Did breast cancer database.
+* *College:* Ds and Java problems.
+
+**Thoughts:** Today was more or less rest.
+
+**Link to work:** (matrix multiplication)[https://github.com/Indian-otaku/Java-Programs/blob/main/matrix_multiplication.java], (queue)[https://github.com/Indian-otaku/C-Programming/blob/main/queue.c] and (stack)[https://github.com/Indian-otaku/C-Programming/blob/main/stack.c]
