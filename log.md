@@ -173,4 +173,28 @@
 
 **Thoughts:** Today was more or less rest.
 
-**Link to work:** (matrix multiplication)[https://github.com/Indian-otaku/Java-Programs/blob/main/matrix_multiplication.java], (queue)[https://github.com/Indian-otaku/C-Programming/blob/main/queue.c] and (stack)[https://github.com/Indian-otaku/C-Programming/blob/main/stack.c]
+**Link to work:** [matrix multiplication](https://github.com/Indian-otaku/Java-Programs/blob/main/matrix_multiplication.java), [queue](https://github.com/Indian-otaku/C-Programming/blob/main/queue.c) and [stack](https://github.com/Indian-otaku/C-Programming/blob/main/stack.c)
+
+### Day 15: November 27, 2021
+
+**Today's Progress**: 
+* *Self learn:* Finished some indexing selecting and assignment and summary funciton and maps in kaggle.
+* *College:* Ds.
+
+**Thoughts:** guests were there oof and wasnt in the mood to learn.
+
+**Link to work:** No link today
+
+
+### Day 16: November 28, 2021
+
+**Today's Progress**: 
+* *Self learn:* Finished grouping and sorting tutorial and test in kaggle.
+* *College:* Nothing much.
+
+**Thoughts:** Today was a totally busy day thanks to family stuffs. Progress is decreasing over weekend though gotta do some things tomorrow onwards.
+
+**Link to work:** No link today
+
+
+
