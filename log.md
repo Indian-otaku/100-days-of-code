@@ -196,5 +196,53 @@
 
 **Link to work:** No link today
 
+### Day 17: November 29, 2021
 
+**Today's Progress**: 
+* *Self learn:* Read python ml book, Started Label Encoder, Ordinal Encoder and One Hot Encoder.
+* *College:* Made a resume and did two java programs.
+
+**Thoughts:** Today was productive and also started preprocessing. 
+
+**Link to work:** No link today
+
+### Day 18: November 30, 2021
+
+**Today's Progress**: 
+* *Self learn:* Finished a program on preprocessing.
+* *College:* Nothing much.
+
+**Thoughts:** Today was all about practicing what i learned yesterday.
+
+**Link to work:** [Link for youtube playlist](https://youtube.com/playlist?list=PLlg4M31xJeYa7XcJZWypot8l7R-0E65Ls)
+
+### Day 19: December 1, 2021
+
+**Today's Progress**: 
+* *Self learn:* Finished preprocessing and started imputing- started Simple Imputer.
+* *College:* Nothing much.
+
+**Thoughts:** I'm making considerable progress in ml yay!!!
+
+**Link to work:** No link today
+
+### Day 20: December 2, 2021
+
+**Today's Progress**: 
+* *Self learn:* More on Simple Imputers, dropping columns and KNN Imputer.
+* *College:* Nothing much.
+
+**Thoughts:** Today was a totally busy day thanks to family stuffs. Progress is decreasing over weekend though gotta do some things tomorrow onwards.
+
+**Link to work:** No link today
+
+### Day 21: December 3, 2021
+
+**Today's Progress**: 
+* *Self learn:* Nothing much.
+* *College:* Did some LSD questions and started Discrete Maths.
+
+**Thoughts:** Accidentally slept while learning Discrete Maths and that ended up ruining the whole sleep schedule F.
+
+**Link to work:** No link today
 
