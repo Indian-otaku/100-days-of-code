@@ -246,3 +246,54 @@
 
 **Link to work:** No link today
 
+
+### Day 22: December 4, 2021
+
+**Today's Progress**: 
+* *Self learn:* Did some ml program.
+* *College:* Nothing much.
+
+**Thoughts:** Was kinda fatigued today.
+
+**Link to work:** No link today
+
+
+### Day 23: December 5, 2021
+
+**Today's Progress**: 
+* *Self learn:* Nothing much.
+* *College:* Finished first module of data structures.
+
+**Thoughts:** Spent all day learning ds.
+
+**Link to work:** No link today
+
+### Day 24: December 6, 2021
+
+**Today's Progress**: 
+* *Self learn:* Started imputers again.
+* *College:* Did some ds questions.
+
+**Thoughts:** DS exam was super easy.
+
+**Link to work:** No link today
+
+### Day 25: December 7, 2021
+
+**Today's Progress**: 
+* *Self learn:* Started reading 'Data Science from scratch'
+* *College:* Did some LSD questions.
+
+**Thoughts:** Got an amazing book from library and its online class from tomorrow onwards so gotta spend the time wisely.
+
+**Link to work:** No link today
+
+### Day 26: December 8, 2021
+
+**Today's Progress**: 
+* *Self learn:* Nothing much.
+* *College:* Spent fuckin 7 hours on an Infix to Prefix C program oof.
+
+**Thoughts:** All those time just because of a stupid logical mistake lol. Anyways that tested the limits of my patience so nice!!
+
+**Link to work:** [program](https://github.com/Indian-otaku/C-Programming/blob/main/Infix_to_Postfix.c)
