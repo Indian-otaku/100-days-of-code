@@ -297,3 +297,151 @@
 **Thoughts:** All those time just because of a stupid logical mistake lol. Anyways that tested the limits of my patience so nice!!
 
 **Link to work:** [program](https://github.com/Indian-otaku/C-Programming/blob/main/Infix_to_Postfix.c)
+
+
+### Day 27: December 9, 2021
+
+**Today's Progress**: 
+Started taking OOPS seriously.
+
+
+### Day 28: December 10, 2021
+
+**Today's Progress**: 
+ Learned some discrete maths, some oops concepts and also logic system design topics.
+
+
+### Day 29: December 11, 2021
+
+**Today's Progress**: 
+Revised all ml concepts I learned last two weeks.
+Started learning naive bayes gaussian algorithm but I cant seem to implement it in Vscode, its giving me "[Errno 22] Invalid argument". After a quick search I couldn't find any related errors in google.Oof...
+
+### Day 30: December 12, 2021
+
+**Today's Progress**: 
+Learning about oops in Java.
+Finally did a ml program totally on my own and managed to get 95% accuracy. Feels motivated after that haha.
+
+
+### Day 31: December 13, 2021
+
+**Today's Progress**: 
+Learned More Object oriented programming concepts today.
+Also realised only today that by our university syllabus we are supposed to well learn some advanced stuffs in Java than just basics stuffs and OOPs.
+
+
+### Day 32: December 14, 2021
+
+**Today's Progress**: 
+Couldn't really do much today, was out most of the time. Revised some java and did a program but that's it.
+
+
+### Day 33: December 15, 2021
+
+**Today's Progress**: 
+Did classification algorithms on Car Evaluation Dataset. Also revised first module of Lsd cause we had an exam today. It was pretty easy.
+
+### Day 34: December 16, 2021
+
+**Today's Progress**: 
+Learned Oops in Java. Got java exam tomorrow.
+
+
+### Day 35: December 17, 2021
+
+**Today's Progress**: 
+Learned Java oops, exception handling and packages
+
+
+### Day 36: December 18, 2021
+
+**Today's Progress**: 
+Our college IEDC group is conducting a workshop on Artificial neural networks tomorrow. 
+Even though I've never really dwelved into neural networks before, it'll be an experience to meet the seniors who are following the same path as mine. 
+Did a workshop on Artificial neural networks. Messed with my GitHub profile.
+Update: that didnt quite went as planned and we never really got to actually start neural networks
+
+
+### Day 37: December 19, 2021
+
+**Today's Progress**: 
+• Did some Linked list problems on C.
+• Learned some discrete maths.
+• Started feature scaling in machine learning preprocessing.
+
+
+### Day 38: December 20, 2021
+
+**Today's Progress**: 
+• Learned some Java (got exam tomorrow)
+• Learned how exactly decision trees and random forest works. It was simpler than I thought lol.
+• Did some discrete maths qns.
+
+### Day 39: December 21, 2021
+
+**Today's Progress**: 
+• Started learning column transformer and pipeline of ml.
+Redid a program using pipeline and column transformer.
+
+Java exam was a joke lol, we totally expected some Oops programs or tough problems or stuff and what came was "explain the operators of java".
+
+
+### Day 40: December 22, 2021
+
+**Today's Progress**: 
+• Did stack and queue using linked list. 
+Couldn't really do much today as it was my birthday today. 
+
+
+### Day 41: December 23, 2021
+
+**Today's Progress**: 
+Learned how the following works: 
+• Standardscaler, 
+• Robustscaler, 
+• MinMaxScaler, 
+• MaxAbsScaler,
+• QuartileTransformer and
+• PowerTransformers 
+Also tried out a Swedish auto insurance dataset.
+
+
+### Day 42: December 24, 2021
+
+**Today's Progress**: 
+Played with agaricus dataset
+
+### Day 43: December 25, 2021
+
+**Today's Progress**: 
+Revised some topics I learned this week.
+
+### Day 44: December 26, 2021
+
+**Today's Progress**: 
+Learned more about Pipelines and Column Transformers
+### Day 45: December 27, 2021
+
+**Today's Progress**: 
+Couldn't do much today. Was out all day.
+
+
+### Day 46: December 28, 2021
+
+**Today's Progress**: 
+Revised what all I learned till now.
+
+
+### Day 47: December 29 2021
+
+**Today's Progress**: 
+> Started learning cross validation 
+> Bias variance balance
+> Once again approached titanic dataset but this time better results
+
+### Day 48: December 30, 2021
+
+**Today's Progress**: 
+
+
