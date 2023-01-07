@@ -440,8 +440,5 @@ Revised what all I learned till now.
 > Bias variance balance
 > Once again approached titanic dataset but this time better results
 
-### Day 48: December 30, 2021
-
-**Today's Progress**: 
-
+# Long story short i did manage to finish it in time but totally forgot to update it in github halfway
 
